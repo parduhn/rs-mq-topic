@@ -1,5 +1,5 @@
 [package]
-name = "rs-mq-worker"
+name = "rs-mq-topic-consume"
 version = "0.1.0"
 edition = "2018"
 
