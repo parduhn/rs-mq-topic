@@ -1,0 +1,12 @@
+[package]
+name = "rs-mq-worker"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# rabbitmq-stream-client = "*"
+# logger = { git = "ssh://git@github.com/parduhn/rs-logger.git" }
+amiquip = "0.4"
+env_logger = "0.3"
